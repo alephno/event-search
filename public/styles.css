@@ -1,0 +1,25 @@
+.eventsApp {
+  padding: 15;
+  margin: auto;
+  width: 75%;
+}
+
+.searchArea {
+  padding: 5px;
+}
+
+.eventsList {
+  padding: 5px;
+  list-style-type: none;
+}
+
+.eventsList .dateLabel {
+  text-align: left;
+}
+
+.panel-heading .btn {
+  float: right;
+  padding: 5px;
+  margin-top: -6px;
+  margin-right: 5px;
+}
